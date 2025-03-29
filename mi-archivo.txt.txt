@@ -1,5 +1,3 @@
 Primer ejercicio del trabajo GitHub.
 
 Primer cambio.
-
-Segundo cambio de la Branch: Second
